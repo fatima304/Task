@@ -1,0 +1,38 @@
+#title {
+    width: 100vw;
+    background-color: rgb(43, 40, 40);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+#text1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-bottom: 50px;
+}
+#text {
+    text-align: center;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+.buttons {
+    text-align: center;
+}
+.button {
+    background-color: #fafafa;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+}
+#pictures {
+    size: 100px;
+    border-radius: 20px;
+    border: 20px solid rgb(255, 255, 255);
+    height: 500px;
+    width: 50vh;
+    align-items: center;
+    justify-content: space-between;
+    display: inline-block;
+    margin: 5px;
+}
